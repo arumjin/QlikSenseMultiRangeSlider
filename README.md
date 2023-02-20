@@ -1,4 +1,4 @@
-# QlikSenseMultiRangeSlider
+# Qlik Sense Multi Range Slider
 ![image](https://user-images.githubusercontent.com/7877793/220033655-fd3d5747-80b5-4e5f-9ca5-a7ce28113505.png)
 
 ## 1. Register two variables
