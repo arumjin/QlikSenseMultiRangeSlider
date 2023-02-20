@@ -11,7 +11,7 @@ Set the min, max, and step values of the slider.
 
 
 ## 3. Set the color of the slider
-You can set the button color, range color, and track color.
+You can set the button(thumb), range and track color.
 
 ![image](https://user-images.githubusercontent.com/7877793/220034444-73de03ec-aa4a-4ea8-a431-59f3a72af893.png)
 
