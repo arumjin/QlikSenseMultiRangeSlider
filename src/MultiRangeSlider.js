@@ -52,20 +52,6 @@ define( ["qlik", "text!./MultiRangeSlider.html", "css!./MultiRangeSlider.css"],
 										label: "Step",
 										defaultValue:1,
 										expression:"optional"
-									},
-									showLabel: {
-										ref: "showLabel",
-										type: "boolean",
-										component: "switch",
-										label: "Show label",
-										defaultValue: true,
-										options:[{
-											value: true,
-											label: "Show"
-											},{
-											value: false,
-											label: "Hide"
-										}]
 									}					
 								}
 							},
